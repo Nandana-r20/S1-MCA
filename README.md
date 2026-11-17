@@ -1,6 +1,6 @@
 DS-- C Programming Lab
 
-This repository contains C programming lab programs completed as part of my college coursework and programming practice.
+This repository contains DS programming lab programs completed as part of my college coursework and programming practice.
 
 ## Topics Covered
 
@@ -15,6 +15,8 @@ This repository contains C programming lab programs completed as part of my coll
 - Stacks
 - Queues
 - Sets and Related Data Structures
+- Prim's Algorithm
+- Topological Sorting
 
 ## Programs
 
